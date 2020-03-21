@@ -87,6 +87,6 @@ vidmiruvach = int(vidmiruvach)
 write(vidmiruvach,font=("Arial",18, "normal"))
 
 if arget > vidmiruvach:
-    write('Недобор')
+    write('Недобор567')
 else:
     write('Перебор')
